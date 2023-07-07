@@ -24,6 +24,6 @@ We are located in Tema Com.1
 
 Contact us on 0501658124
 
-Or send us a mail to place your order via [Chocolarthaus@gmail.com]
+Or send us a mail to place your order now via [Chocolarthaus@gmail.com]
 
 Chocolart Haus, we say artisanal cholates at its best!
