@@ -1,0 +1,41 @@
+/* Flexbox */
+body, main {
+    display: flex;
+}
+
+/* Body Style */
+body {
+    flex-direction: column;
+}
+
+/* Main COntent Style */
+main {
+    flex-direction: row;
+    flex: auto;
+}
+
+/* Article Style */
+article {
+    flex: 2;
+}
+
+/* Aside Style */
+aside {
+    flex: 1;
+}
+
+/* Article and Aside Style */
+article, aside {
+    overflow-y: auto;
+}
+
+/* Table Style */
+table{
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 9px;
+    text-align: left;
+    border-bottom: 1px solid;
+}
